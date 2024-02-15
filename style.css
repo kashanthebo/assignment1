@@ -1,0 +1,51 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#socialmedia i: hover{
+    color: white;
+}
+
+.process h3{
+    padding-top: 200px;
+}
+.row1{
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+#col1{
+    width: 250px;
+    margin:10px ;
+    border-bottom: 1px solid gray;
+}
+#col1:hover{
+    color: white;
+    background-color: #0d6efd;
+}
+#button1{
+    margin-top: 265px;
+    text-align: justify;
+}
+#button2{
+    margin-top: 195px;
+}
+#button3{
+    margin-top: 100px;
+}
+#button4{
+    margin-top: 30px;
+}
+li{
+    list-style: none;
+} */
+li{
+    list-style: none;
+}
+.process{
+    background-image: url('https://media.istockphoto.com/id/1218956980/photo/hand-is-cleaning-car-headlight-with-a-using-red-microfiber-cloth.jpg?s=612x612&w=0&k=20&c=s6c0FTNj5Cyg7-qdFR4mzk-u2nvIlyu51tikTUHyjuE=') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
