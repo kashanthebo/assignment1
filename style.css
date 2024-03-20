@@ -1,12 +1,21 @@
-/* *{
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-#socialmedia i: hover{
-    color: white;
+.nav-link{
+    color: gray;
 }
-
+.nav-link:hover{
+    color: rgb(201, 196, 196);
+}
+#socialmedia a{
+    color: gray;
+    text-decoration: none;
+}
+#socialmedia a:hover{
+    color: rgb(201, 196, 196);
+}
 .process h3{
     padding-top: 200px;
 }
@@ -18,7 +27,7 @@
 #col1{
     width: 250px;
     margin:10px ;
-    border-bottom: 1px solid gray;
+    /* border-bottom: 1px solid gray; */
 }
 #col1:hover{
     color: white;
@@ -39,7 +48,7 @@
 }
 li{
     list-style: none;
-} */
+}
 li{
     list-style: none;
 }
