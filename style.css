@@ -3,18 +3,24 @@
     padding: 0;
     box-sizing: border-box;
 }
+.navbar-brand img{
+    color: gray;
+}
+.navbar-brand img:hover{
+    color: orange;
+}
 .nav-link{
     color: gray;
 }
 .nav-link:hover{
-    color: rgb(201, 196, 196);
+    color: orange;
 }
 #socialmedia a{
     color: gray;
     text-decoration: none;
 }
 #socialmedia a:hover{
-    color: rgb(201, 196, 196);
+    color: orange;
 }
 .process h3{
     padding-top: 200px;
@@ -27,7 +33,6 @@
 #col1{
     width: 250px;
     margin:10px ;
-    /* border-bottom: 1px solid gray; */
 }
 #col1:hover{
     color: white;
@@ -57,4 +62,7 @@ li{
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
+}
+sup{
+    font-size: 38px;
 }
